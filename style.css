@@ -189,7 +189,7 @@ body {
 }
 
 div.checked {
-	background-image: url(./img/done.svg);
+	background-image: url(./done.svg);
 	background-position: center;
 
 	cursor: pointer;
