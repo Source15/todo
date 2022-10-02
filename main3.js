@@ -62,7 +62,7 @@ eventList();
     span.classList.add("item-text");
     span.id = id;
     closeBtn.classList.add("close");
-    closeBtn.src = "img/close.png";
+    closeBtn.src = "close.png";
 
     priority.prepend(task);
     task.append(label);
